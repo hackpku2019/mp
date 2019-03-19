@@ -1,7 +1,7 @@
 {
   "pages": [
     "pages/index/main",
-    "pages/calender/main",
+    "pages/calendar/main",
     "pages/teams/main",
     "pages/me/main",
     "pages/login/main"
@@ -25,7 +25,7 @@
       "selectedIconPath": "static/tabs/home-active.png"
     }, {
       "text": "日程",
-      "pagePath": "pages/calender/main",
+      "pagePath": "pages/calendar/main",
       "iconPath": "static/tabs/orders.png",
       "selectedIconPath": "static/tabs/orders-active.png"
     }, {
